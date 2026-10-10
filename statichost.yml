@@ -1,0 +1,3 @@
+# statichost.eu: reine HTML-Seite ohne Build-Schritt.
+# Die Dateien im Hauptverzeichnis des Repositorys werden direkt veröffentlicht.
+public: .
